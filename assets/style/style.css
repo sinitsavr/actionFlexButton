@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+  text-align: center;
+  margin: auto;
+  width: 500px;
+}
+.btn {
+  padding: 15px;
+  border: 2px solid #4fc2f8;
+}
+
+.field{
+  display: flex;
+  width: 60vw;
+  border: 2px solid #4fc2f8
+}
+.element{
+  padding: 15px;
+  background-color: #4fc2f8;
+  border: 2px solid #fff;
+}
+
